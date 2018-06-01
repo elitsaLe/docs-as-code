@@ -7,9 +7,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 == First Section
 
-* lorem
-* ipsum
-* dolor
+* bullet 1
+* bullet 2
+* bullet 3
 
 WARNING: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
